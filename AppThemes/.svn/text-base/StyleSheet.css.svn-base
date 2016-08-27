@@ -1,0 +1,248 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body
+{
+  width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-image: url(../Images/main-background.gif);
+	background-repeat: repeat-x;
+	text-align: center;
+}
+
+#mainForm
+{
+  height: 1050px;
+	width: 900px;
+	padding: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	border-style:solid;
+  border-width:thin;
+  border-color: Gray;
+	text-align: center;
+}
+
+#wrapper
+{
+  height: 1050px;
+	width: 100%;
+	text-align: left;
+	background-color:White;
+}
+
+#header
+{
+  width: 100%;
+	height: 190px;
+	margin: 0;
+	padding: 0;
+	background-image: url(../Images/header.jpg);
+}
+
+#content
+{
+	width: 850px;
+	margin:0;
+	padding: 0;
+	background-repeat: repeat-x;
+}
+
+/*****************************************************************
+/* CSS FOR MAIN PAGE
+*****************************************************************/
+#leftsidebar {
+  float:left;
+  width:33%;
+  height: 800px;
+  background-color:#DDDDDD;
+  border-style:solid;
+  border-color: #DDDDDD;
+  border-right:thin;
+}
+#mainpagecontent {
+  float:right;
+  width:65%;
+}
+
+/*****************************************************************
+/* FOOTER POSITIONING
+*****************************************************************/
+
+#footer
+{
+	height:48px;
+	position: relative;
+	bottom: 50px;
+	padding: 0;
+	background-color:#DDDDDD;
+	border-style:solid;
+	border-width:thin;
+  border-color: #DDDDDD;
+	clear:both;
+}
+
+#navbarfooter {
+  /************************************************************************************ 	
+  /* Putting an absolutely positioned element inside a relatively positioned element /*  	
+  /* will result in the position being calculated on its nearest positioned ancestor./*  	
+  /* This is a excellent technique for getting an element to "stick" in a certain    /*  	
+  /* spot were you need it, for instance, a header badge or company logo.            /*  
+  ************************************************************************************/
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 5px;
+	font: 0.7em arial,sans-serif;
+	text-align: center;
+}
+
+#footer p
+{
+	/************************************************************************************ 	
+  /* Putting an absolutely positioned element inside a relatively positioned element /*  	
+  /* will result in the position being calculated on its nearest positioned ancestor./*  	
+  /* This is a excellent technique for getting an element to "stick" in a certain    /*  	
+  /* spot were you need it, for instance, a header badge or company logo.            /*  
+  ************************************************************************************/
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 20px;
+	font: 0.7em arial,sans-serif;
+	text-align: center;
+}
+
+div.Indent
+{
+    float: right;
+    width: 95%;
+}
+
+ul.text
+{
+  color: Black;
+  font-size: 1.1em;
+  font-style: normal;
+	font-weight: normal;
+	line-height: 1.4em;
+}
+
+ul.small
+{
+  color: Black;
+  font-size: 1em;
+  font-style: normal;
+	font-weight: normal;
+}
+
+p.small {
+  text-indent: 0em;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: Black;
+  font-size: 10px;
+  font-style: normal;
+	font-weight: normal;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	padding-left: 0em;
+	padding-right: 0em;
+}
+
+p.medium {
+  text-indent: 0em;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: Black;
+  font-size: 12px;
+  font-style: normal;
+	font-weight: normal;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	padding-left: 0em;
+	padding-right: 0em;
+}
+
+del { color: Red; }
+
+h1 {
+	margin: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+h2 {
+	margin: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+h3 {
+	margin: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+h4 
+{
+  margin: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+h5 {
+	margin: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+}
+  
+/********************************************
+/*             CLEAR FIX                   */
+/*******************************************/
+.clearfix:after
+{
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+.clearfix
+{
+	display: inline-block;
+}
+/* Hides from IE-mac \*/
+* html .clearfix
+{
+	height: 1%;
+}
+.clearfix
+{
+	display: block;
+}
+/* End hide from IE-mac */
+
+/********************************************
+/* CSS FOR MANEUVERABILITY DIAGRAM         */
+/*******************************************/
+#ManeuverabilityDiagram {
+  border-style:ridge;
+  border-width:thin;
+  height:370px;
+  width:691px;
+}

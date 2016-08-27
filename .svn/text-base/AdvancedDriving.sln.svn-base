@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AdvancedDriving", ".", "{281708C5-963E-4CB2-AEF5-BADF1DB71D34}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/AdvancedDriving"
+		Debug.AspNetCompiler.PhysicalPath = "..\AdvancedDriving\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\AdvancedDriving\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/AdvancedDriving"
+		Release.AspNetCompiler.PhysicalPath = "..\AdvancedDriving\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\AdvancedDriving\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "65415"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281708C5-963E-4CB2-AEF5-BADF1DB71D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281708C5-963E-4CB2-AEF5-BADF1DB71D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
