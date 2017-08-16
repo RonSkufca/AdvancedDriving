@@ -69,11 +69,9 @@
         <div id="navbarfooter">
           <a href="Default.aspx">Home</a> | <a href="Locations.aspx">Locations</a> | <a href="PrivateLessons.aspx">
             Private Lessons</a> | <a href="AboutUs.aspx">About Us</a> | <a href="ContactUs.aspx">
-              Contact</a>
+              Contact</a>        
         </div>
-        <p>
-          &copy;2009 Mandalay Systems<a href="http://www.mandalaysystems.com"> www.mandalaysystems.com</a></p>
-      </div>
+         <p>&copy;2017 Mandalay Systems<a href="http://www.mandalaysystems.com"> www.mandalaysystems.com</a></p>
   </div>
 </body>
 

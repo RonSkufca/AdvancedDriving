@@ -13,8 +13,9 @@
   <p> For over a decade advanced driving school has been
 	  providing quality drivers education. Our instructors must pass our
 	  extensive training program and are licensed by the Department of Public
-	  Safety.We understand your busy schedule that is why we you have the ability to 
+	  Safety. We understand your busy schedule that is why we you have the ability to 
 	  do your 24 hour classroom on line, or in a classroom setting at our 2 locations. 
+      
   </p>
   <p>If you have any questions or comments please don't hesitate to call <strong> Jennifer at 
   440-943-4564. </strong> Thanks for choosing Advanced Driving School.
@@ -46,7 +47,15 @@
          The online course is divided into 10 modules. Ohio regulations limit students to 4 hours of training during a 24-hour period. 
          Also students may not access the online driver education course in increments longer than 2 hours.
       </p>
+      <p>
+         Students may schedule their in-car lesson after completing 2 hours of the 24 hour online course.
+         The 2 hour completion certificate must be given to the in-car instructor on the first lesson along with the $275 fee.
+         Call 440-943-4564 to schedule.
+      </p>
       <p>Before taking the online course you must register first. <a href="https://advanceddrivingschool.learn2driveusa.com/scripts/studentreg.pl">REGISTER NOW.</a></p>
+      <p>Online Adult Abbreviated 4 hour classroom course.
+          <a href="https://advanceddrivingschool.learn2driveusa.com/adult/">Register Here.</a>
+      </p>
       <form method="get" action="https://advanceddrivingschool.learn2driveusa.com/login.html">
           <fieldset>
               <legend>Existing users login here.</legend>
