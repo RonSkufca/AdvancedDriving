@@ -49,7 +49,7 @@
       </p>
       <p>
          Students may schedule their in-car lesson after completing 2 hours of the 24 hour online course.
-         The 2 hour completion certificate must be given to the in-car instructor on the first lesson along with the $275 fee.
+         The 2 hour completion certificate must be given to the in-car instructor on the first lesson along with the $300 fee.
          Call 440-943-4564 to schedule.
       </p>
       <p>Before taking the online course you must register first. <a href="https://advanceddrivingschool.learn2driveusa.com/scripts/studentreg.pl">REGISTER NOW.</a></p>
