@@ -15,20 +15,20 @@
   <p class="medium">Bishop Road Exit on I-90, Located Directly Across from Wickliffe City Hall</p>
   <h2>Tuition</h2>
   <p class="medium">Program Fee: $325.</p>
-  <h2>Class Schedule for 2017 - 2018</h2>
+  <h2>Class Schedule for 2018 - 2019</h2>
   <ul class="text" type="disc">
-    <li>September 19, 20, 21, 26, 27, 28</li>
-    <li>October 17, 18, 19, 24, 25, 26</li>
-    <li>November 20, 21, 22, 28, 29, 30, (Mon start day for first week)</li>
-    <li>December 19, 20, 21, 26, 27, 28</li>
-    <li>January 23, 24, 25, 30, 31, Feb 1</li>
-    <li>February 20, 21, 22, 27, 28, Mar 1</li>
-    <li>March 20, 21, 22, 27, 28, 29</li>
-    <li>April 17, 18, 19, 24, 25, 26</li>
-    <li>May 15, 16, 17, 22, 23, 24</li>
-    <li>June 19, 20, 21, 26, 27, 28</li>
-    <li>July 24, 25, 26, 31, Aug 1, 2</li>
-    <li>August 21, 22, 23, 28, 29, 30</li>    
+    <li>September 18, 19, 20, 25, 26, 27</li>
+    <li>October 16, 17, 18, 23, 24, 25</li>
+    <li>November 19, 20, 21, 27, 28, 29, (Mon start day for first week)</li>
+    <li>December 18, 19, 20, 26, 27, 28</li>
+    <li>January 22, 23, 24, 29, 30, 31</li>
+    <li>February 19, 20, 21, 26, 27, 28</li>
+    <li>March 19, 20, 21, 26, 27, 28</li>
+    <li>April 16, 17, 18, 23, 24, 25</li>
+    <li>May 21, 22, 23, 28, 29, 30</li>
+    <li>June 18, 19, 20, 25, 26, 27</li>
+    <li>July 16, 17, 18, 23, 24, 25</li>
+    <li>August 20, 21, 22, 27, 28, 29</li>    
   </ul>
   <h2>Important Information</h2>
   <ul class="small" type="disc">
