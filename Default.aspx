@@ -52,11 +52,11 @@
          The 2 hour completion certificate must be given to the in-car instructor on the first lesson along with the $300 fee.
          Call 440-943-4564 to schedule.
       </p>
-      <p>Before taking the online course you must register first. <a href="https://advanceddrivingschool.learn2driveusa.com/scripts/studentreg.pl">REGISTER NOW.</a></p>
+      <p>Before taking the online course you must register first. <a href="https://advanceddrivingschool.ohiodrivereducation.com/">REGISTER NOW.</a></p>
       <p>Online Adult Abbreviated 4 hour classroom course.
-          <a href="https://advanceddrivingschool.learn2driveusa.com/adult/">Register Here.</a>
+          <a href="https://advanceddrivingschool.ohiodrivereducation.com/">Register Here.</a>
       </p>
-      <form method="get" action="https://advanceddrivingschool.learn2driveusa.com/login.html">
+      <form method="get" action="https://advanceddrivingschool.ohiodrivereducation.com/teen/index.php/page/view/66">
           <fieldset>
               <legend>Existing users login here.</legend>
               Username<input type="text" name="username"/>
