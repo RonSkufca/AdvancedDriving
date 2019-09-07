@@ -49,7 +49,7 @@
       </p>
       <p>
          Students may schedule their in-car lesson after completing 2 hours of the 24 hour online course.
-         The 2 hour completion certificate must be given to the in-car instructor on the first lesson along with the $300 fee.
+         The 2 hour completion certificate must be given to the in-car instructor on the first lesson along with the $325 fee.
          Call 440-943-4564 to schedule.
       </p>
       <p>Before taking the online course you must register first. <a href="https://advanceddrivingschool.ohiodrivereducation.com/driving/index.php/home/page/home/terms/oreg_regular" target="_blank">REGISTER NOW.</a></p>
