@@ -14,7 +14,7 @@
   <p class="small">28787 Ridge Road<br />Wickliffe, OH 44092</p>
   <p class="medium">Bishop Road Exit on I-90, Located Directly Across from Wickliffe City Hall</p>
   <h2>Tuition</h2>
-  <p class="medium">Program Fee: $325.</p>
+  <p class="medium">Program Fee: $345.</p>
   <h2>Class Schedule for 2019 - 2020</h2>
   <%--<ul class="text" type="disc">
     <li>September 18, 19, 20, 25, 26, 27</li>
