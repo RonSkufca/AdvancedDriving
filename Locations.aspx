@@ -13,17 +13,6 @@
     <br />
   <table class="locations" border="1px" cellpadding="5" >
     <tr>
-      <td width="400">
-        <strong><a href="Wickliffe.aspx" class="mainText">Click here for Wickliffe schedule information.</a></strong>
-        <br />
-        Advanced Driving School of Wickliffe<br />        
-        28787 Ridge Road<br />
-        Wickliffe, OH 44092<br />     
-        440-943-4564<br />
-        <a href="Wickliffe_MAP.htm" class="mainText" target="_blank">Map It</a>
-      </td>
-    </tr>
-    <tr>
     <td width="400">
         <strong><a href="Riverside.aspx" class="mainText">Click here for Painesville schedule information.</a></strong>
         <br />

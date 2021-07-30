@@ -14,7 +14,7 @@
   <p>We offer pick up and use of our car and drop off services for the road test. 
      You MUST have a valid appointment scheduled with the BMV.  
 	 The cost for this service is $80.00.
-     <strong>To schedule an appointment please contact Jennifer at 440-943-4564.
+     <strong>To schedule an appointment please contact Fran at 440-943-4564.
      for vehicle availiability</strong> before schedulding test with the BMV.
   </p>
 </div>

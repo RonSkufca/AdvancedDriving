@@ -10,25 +10,15 @@
   <h1>Welcome to Advanced Driving School</h1>
   <br />
   <h3>Serving all of Northern Ohio</h3>
-  <p> For over a decade advanced driving school has been
-	  providing quality drivers education. Our instructors must pass our
-	  extensive training program and are licensed by the Department of Public
-	  Safety. We understand your busy schedule that is why we you have the ability to 
-	  do your 24 hour classroom on line, or in a classroom setting at our 2 locations. 
-      
+  <p> For over a decade Advanced Driving School has been providing quality driver education.
+      Our instructors must pass our extensive training program and are licensed by the Department of Public Safety. 
   </p>
-  <p>If you have any questions or comments please don't hesitate to call <strong> Jennifer at 
+  <p>If you have any questions or comments please don't hesitate to call <strong> Fran at 
   440-943-4564. </strong> Thanks for choosing Advanced Driving School.
   </p>
   
   <table style="width:600px">
     <tr>
-      <td style="width:24%">
-        <a href="Wickliffe.aspx" class="mainText">Wickliffe</a>
-        <p class="small">28787 Ridge Road
-        Wickliffe, 44092
-        440-943-4564</p>
-      </td>
       <td style="width:24%">
         <a href="Riverside.aspx" class="mainText">Painesville</a>
         <p class="small">585 Riverside Dr.
@@ -39,18 +29,10 @@
     </tr>
   </table>
   <div class="onlineTraining">
-      <h2>*** New Online Training Program ***</h2>
-      <p>Advanced Driving has partnered with Costech Technologies Inc.
-         to make it easy to complete your driver education online.
-      </p>
-      <p>The approved online driver education course is at least 24 hours in duration.
-         The online course is divided into 10 modules. Ohio regulations limit students to 4 hours of training during a 24-hour period. 
-         Also students may not access the online driver education course in increments longer than 2 hours.
-      </p>
       <p>
-         Students may schedule their in-car lesson after completing the 24 hour online course.
-         The 24 hour completion certificate must be given to the in-car instructor on the first lesson along with the $345 fee.
-         Call 440-943-4564 to schedule.
+         Students may schedule their in-car lesson after completing the a 24 hour online course.
+          The 24 hour completion certificate must be given to the in-car instructor on the first lesson along with the $365 fee.
+          Call 440-943-4564 to schedule.
       </p>
       <p>Before taking the online course you must register first. <a href="https://advanceddrivingschool.ohiodrivereducation.com/driving/index.php/home/page/home/terms/oreg_regular" target="_blank">REGISTER NOW.</a></p>
       <p>Online Adult Abbreviated 4 hour classroom course.
@@ -65,8 +47,8 @@
           </fieldset>          
       </form>
   </div>
-  <p>For your convinence we accept the following credit cards.</p>
-  <img src="Images/credit_card_logos_11.gif" />
+    <p>For your convinence we accept the following credit cards.</p>
+    <img src="Images/credit_card_logos_11.gif" />
 </div>
 </asp:Content>
 

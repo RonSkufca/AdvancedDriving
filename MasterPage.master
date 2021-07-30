@@ -42,7 +42,6 @@
             <li><a href="Default.aspx">Home</a></li>
             <li><a href="Locations.aspx">Locations</a>
               <ul>
-                <li><a href="Wickliffe.aspx">Wickliffe</a></li>
                 <li><a href="Riverside.aspx">Painesville</a></li>
               </ul>
             </li>

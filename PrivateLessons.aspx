@@ -13,7 +13,7 @@
     <p>We offer private lessons to persons 18 years old and older who have a valid
        temporary drivers permit. Our lessons consist of on-road and maneuverability. 
        Lessons are given in 2 hour sessions. Cost is $80 per 2 hour session. 
-       <strong>Please call Jennifer at 440-943-4564 for class schedules and to register for classes.</strong>
+       <strong>Please call Fran at 440-943-4564 for class schedules and to register for classes.</strong>
     </p>
 </div>
 </asp:Content>

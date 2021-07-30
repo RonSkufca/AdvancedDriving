@@ -12,9 +12,9 @@
     <h1>Advanced Driving School's Teen Remedial Course</h1>
     
     <p>Please bring license number and or SSN for all teen remedial classes.
-       Teen remedial classes are only offered at our <strong><a href="Wickliffe.aspx" class="mainText">Wickliffe</a></strong> location on 
-       Saturdays from 9AM to 3:50PM. The class will break for lunch which you 
-       may bring a lunch or leave to pickup lunch. Cost is $100.00 per class.
+       Teen remedial classes are only offered at our <strong><a href="Riverside.aspx" class="mainText">Painesville</a></strong> location on 
+       Saturdays from 9AM to 3:50PM. The class will break for 1/2 hour lunch. Please bring a lunch with you.
+       Cost is $100.00 per class.
     </p>
     <p><strong>You must bring your court papers to class.</strong></p>
     <p>Please call 440-943-4564 for class schedules and to register for classes.</p>

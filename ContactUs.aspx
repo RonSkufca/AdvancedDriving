@@ -11,9 +11,7 @@
   <br />
   <h1>Contact Us</h1>
   <br />
-  <p class="medium">28787 Ridge Road<br />Wickliffe, OH 44092</p>
-  <p>Advanced Driving School currently has 2 locations to serve you with more coming soon.
-  If you have any questions or comments please don't hesitate to call <strong> Jennifer at 
+  <p>If you have any questions or comments please don't hesitate to call <strong> Fran at 
   440-943-4564. </strong> Thanks for choosing Advanced Driving School.
   </p>
 </div>
