@@ -30,7 +30,7 @@
   </table>
   <div class="onlineTraining">
       <p>
-         Students may schedule their in-car lesson after completing the a 24 hour online course.
+         Students may schedule their in-car lesson after completing a 24 hour online course.
           The 24 hour completion certificate must be given to the in-car instructor on the first lesson along with the $365 fee.
           Call 440-943-4564 to schedule.
       </p>

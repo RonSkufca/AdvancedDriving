@@ -9,13 +9,13 @@
 </div>
 <div id="mainpagecontent">
     <br />
-    <h1>To best serve your needs we have 2 convinent locations.</h1>
+    <h1>To best serve your needs we have the following location.</h1>
     <br />
   <table class="locations" border="1px" cellpadding="5" >
     <tr>
     <td width="400">
-        <strong><a href="Riverside.aspx" class="mainText">Click here for Painesville schedule information.</a></strong>
-        <br />
+        <%--<strong><a href="Riverside.aspx" class="mainText">Click here for Painesville schedule information.</a></strong>--%>
+<%--        <br />--%>
         Advanced Driving School of Painesville<br />
         Riverside High School<br />
         585 Riverside Dr.<br />
