@@ -34,7 +34,6 @@ body
 {
     height: auto;
 	width: 100%;
-	text-align: left;
 	background-color:White;
 }
 
@@ -70,6 +69,8 @@ body
 #mainpagecontent {
   float:right;
   width:65%;
+  text-align: left;
+  padding: 1em 9em 1em 5em;
 }
 
 /*****************************************************************

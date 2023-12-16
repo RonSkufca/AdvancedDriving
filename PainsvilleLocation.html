@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="author" content="e-mail: ron.skufca@gmail.com" />
+    <meta name="robots" content="all,follow" />
+
+    <title>Advanced Driving School</title>
+
+    <link rel="stylesheet" type="text/css" href="AppThemes/StyleSheet.css" />
+    <link rel="stylesheet" type="text/css" href="AppThemes/NavMenu.css" />
+    <link rel="stylesheet" type="text/css" href="AppThemes/ddsmoothmenu.css" />
+
+    <script type="text/javascript" language="javascript" src="Scripts/JScript.js"></script>
+    <script type="text/javascript" src="Scripts/ddsmoothmenu.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+
+    <script type="text/javascript">
+        ddsmoothmenu.init({
+            mainmenuid: "smoothmenu1",    //menu DIV id
+            orientation: 'h',             //Horizontal or vertical menu: Set to "h" or "v"
+            classname: 'ddsmoothmenu',    //class added to menu's outer DIV
+            contentsource: "markup"       //"markup" or ["container_id", "path_to_menu_file"]
+        })
+    </script>
+</head>
+<body>
+    <div id="mainForm">
+        <div id="wrapper">
+            <div id="header"></div>
+
+            <div id="smoothmenu1" class="ddsmoothmenu">
+                <ul>
+                    <li><a href="Index.html">Home</a></li>
+                    <li>
+                        <a href="Location.html">Location</a>
+                        <ul>
+                            <li><a href="PainsvilleLocation.html">Painesville</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="ContactUs.html">Contact Us</a></li>
+                    <li><a href="AboutUs.html">About Us</a></li>
+                </ul>
+                <br style="clear: left" />
+            </div>
+
+            <div id="mainpagecontent">
+                <br />
+                <h1>To best serve your needs we have the following location.</h1>
+                <br />
+                <table class="locations" border="1px" cellpadding="5">
+                    <tr>
+                        <td width="400">
+                            Advanced Driving School of Painesville<br />
+                            Riverside High School<br />
+                            585 Riverside Dr.<br />
+                            Painesville, OH 44077<br />
+                            440-943-4564<br />
+                            <a href="Riverside_MAP.htm" class="mainText" target="_blank">Map It</a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div id="footer">
+            <div id="navbarfooter">
+                <a href="Index.html">Home</a> | <a href="AboutUs.html">About Us</a> | <a href="ContactUs.html">Contact</a>
+            </div>
+            <p>&copy;2023 Mandalay Systems</p>
+        </div>
+    </div>
+</body>
+</html>

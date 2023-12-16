@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="author" content="e-mail: ron.skufca@gmail.com" />
+    <meta name="robots" content="all,follow" />
+    
+    <title>Advanced Driving School</title>
+
+    <link rel="stylesheet" type="text/css" href="AppThemes/StyleSheet.css" />
+    <link rel="stylesheet" type="text/css" href="AppThemes/NavMenu.css" />
+    <link rel="stylesheet" type="text/css" href="AppThemes/ddsmoothmenu.css" />
+
+    <script type="text/javascript" language="javascript" src="Scripts/JScript.js"></script>
+    <script type="text/javascript" src="Scripts/ddsmoothmenu.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+
+    <script type="text/javascript">
+        ddsmoothmenu.init({
+            mainmenuid: "smoothmenu1",    //menu DIV id
+            orientation: 'h',             //Horizontal or vertical menu: Set to "h" or "v"
+            classname: 'ddsmoothmenu',    //class added to menu's outer DIV
+            contentsource: "markup"       //"markup" or ["container_id", "path_to_menu_file"]
+        })
+    </script>
+</head>
+<body>
+    <div id="mainForm">
+        <div id="wrapper">
+            <div id="header"></div>
+
+            <div id="smoothmenu1" class="ddsmoothmenu">
+                <ul>
+                    <li><a href="Index.html">Home</a></li>
+                    <li>
+                        <a href="Location.html">Location</a>
+                        <ul>
+                            <li><a href="PainsvilleLocation.html">Painesville</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="ContactUs.html">Contact Us</a></li>
+                    <li><a href="AboutUs.html">About Us</a></li>
+                </ul>
+                <br style="clear: left" />
+            </div>
+
+            <div id="mainpagecontent">
+                <br />
+                <h1>Welcome to Advanced Driving School</h1>
+                <br />
+                <h3>Serving all of Northern Ohio</h3>
+                <p>
+                    For over a decade Advanced Driving School has been providing quality driver education.
+                    Our instructors must pass our extensive training program and are licensed by the Department of Public Safety.
+                </p>
+                <p>
+                    If you have any questions or comments please don't hesitate to call <strong>
+                        Fran at 440-943-4564.
+                    </strong>Thanks for choosing Advanced Driving School.
+                </p>
+
+                <table style="width:600px">
+                    <tr>
+                        <td style="width:24%">
+                            <a href="PainsvilleLocation.html" class="mainText">Painesville</a>
+                            <p class="small">
+                                585 Riverside Dr.
+                                Painesville, 44077
+                                440-943-4564
+                            </p>
+                        </td>
+                        <td style="width:50%"></td>
+                    </tr>
+                </table>
+                <div class="onlineTraining">
+                    <p>
+                        Students may schedule their in-car lesson after completing a 24 hour online course.
+                        The 24 hour completion certificate must be given to the in-car instructor on the first lesson along with the $365 fee.
+                        Call 440-943-4564 to schedule.
+                    </p>
+                    <p>Before taking the online course you must register first. <a href="https://advanceddrivingschool.ohiodrivereducation.com/driving/index.php/home/page/home/terms/oreg_regular" target="_blank">REGISTER NOW.</a></p>
+                    <p>
+                        Online Adult Abbreviated 4 hour classroom course.
+                        <a href="https://advanceddrivingschool.ohiodrivereducation.com/adultdrivered/index.php/home/page/home/terms/adult_online" target="_blank">Register Here.</a>
+                    </p>
+                    <form method="post" action="https://advanceddrivingschool.ohiodrivereducation.com/driving/index.php/home/page/home/loginpost" target="_blank">
+                        <fieldset>
+                            <legend>Existing users login here.</legend>
+                            Username <input type="text" name="username" />
+                            Password <input type="password" name="password" />
+                            <input type="submit" value="Login" />
+                        </fieldset>
+                    </form>
+                </div>
+                <p>For your convinence we accept the following credit cards.</p>
+                <img src="Images/credit_card_logos_11.gif" />
+            </div>
+        </div>
+        <div id="footer">
+            <div id="navbarfooter">
+                <a href="Index.html">Home</a> | <a href="AboutUs.html">About Us</a> | <a href="ContactUs.html">Contact</a>
+            </div>
+            <p>&copy;2023 Mandalay Systems</p>
+        </div>
+    </div>
+</body>
+</html>
